@@ -13,3 +13,8 @@ Python, NLP basics
 ## Future Improvements
 - Machine learning model integration
 - Real-time emotion detection
+
+Example Output:
+
+Input: I am very happy today
+Output: Happy 😊
